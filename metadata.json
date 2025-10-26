@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Ecosystem Management Chat",
+  "description": "A chatbot that allows users to ask questions about ecosystem management and receive responses from Gemini. Features a 'Thinking Mode' for complex queries using a more powerful model.",
+  "requestFramePermissions": []
+}
